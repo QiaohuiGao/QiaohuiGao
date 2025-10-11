@@ -20,7 +20,7 @@
   - **Tech**: Java, Spring Boot, MySQL  
   - **Features**: Role-specific dashboards, analytics, and inventory management  
 
-- **[AI Tool for Physical Performance Evaluation]([https://github.com/username/ai-performance-tool](https://github.com/QiaohuiGao/ExploreWorld))**  
+- **[AI Tool for Physical Performance Evaluation](https://github.com/QiaohuiGao/ExploreWorld))**  
   *Helps users assess physical abilities before undertaking challenges.*
   - **Tech**: Flask, React, MongoDB, PyTorch  
   - **Features**: Real-time metrics, LLaMA-based recommendations  
