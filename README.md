@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic doer with a passion for proposing innovative solutions to diverse challenges and bringing them to life through programming expertise and thoughtful product design.</h3>
 
 🎓 **Master's Student in Information Systems at Northeastern University**  
-💻 **Aspiring Software Developer | Product Manager**  
+💻 **AI Developer | Full-Stack Software Developer | Product Manager**  
 🌟 **Passionate about building impactful software solutions**  
 - 💬 Ask me about **product design and product launch**
 - 📫 How to reach me **gao.qia@northeastern.edu https://www.linkedin.com/in/qiaohui-gao/**
