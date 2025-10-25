@@ -29,14 +29,14 @@ My work bridges **machine learning, software engineering, and product strategy**
 
 ### 🧠 Highlighted AI Projects
 
-#### 🏥 [AI Triage & Patient Guide Agent (Harvard Medical School)](https://github.com/QiaohuiGao/ai-triage-agent)
+#### 🏥 [AI Triage & Patient Guide Agent (Harvard Medical School)](https://github.com/QiaohuiGao/AI_Triage_Agent)
 > **LLM-powered clinical triage assistant** that interprets symptom descriptions, reasons through medical logic, and routes patients to the right care.
 
 - Hybrid **RAG + rule-based** triage framework grounded by SNOMED-like ontology  
 - **LLM reasoning (Claude / GPT-4o mini)** with confidence-weighted routing and safe response generation  
 - <3 s median latency; ≥ 85 % routing accuracy validated on synthetic patient cases  
 
-#### 🧩 [SmartCare Multimodal Troubleshooting Agent](https://github.com/QiaohuiGao/smartcare-agent)
+#### 🧩 [SmartCare Multimodal Troubleshooting Agent](https://github.com/QiaohuiGao/SmartCare_Agent)
 > **Industrial AI assistant** that automates device fault diagnosis and operator training using manuals, SOPs, and multimodal inputs.
 
 - **Hybrid RAG + deterministic state-machine** pipeline bounded by **YAML fault graphs**  
@@ -45,9 +45,32 @@ My work bridges **machine learning, software engineering, and product strategy**
 - Flask + LangGraph agent orchestration with **ReAct-style tool calls** and Redis caching  
 - CUDA + Docker Swarm deployment achieving ~1.8 s latency and 99.9 % uptime  
 
-#### 📊 [Supplier Management System](https://github.com/QiaohuiGao/supplier-management)
-> Full-stack B2B platform for product, order, and inventory management.  
-**Java / Spring Boot / MySQL** backend with React dashboards and analytics.
+ #### 💼 [AI Sourcing Agent (Web Crawler + GPT Summarizer)](https://github.com/QiaohuiGao/BizNavigator_AISearchAgent)
+> **Intelligent sourcing assistant** that automates supplier discovery, price comparison, and quote aggregation.
+
+- Accepts **multi-keyword weighted inputs** (e.g., *“medical sensor [0.6], silicone tube [0.4]*”) to generate optimized Google queries.
+- **Crawls and scrapes** result pages with Selenium + BeautifulSoup, extracting product specs, vendor contacts, and pricing tables.
+- Uses **GPT-4o mini / Claude Haiku** to summarize supplier reliability and detect duplicates.
+- **Exports structured leads to Excel / CSV** with ranking scores and metadata for easy follow-up.
+- Planned extensions:  
+  - 🔗 *Vector DB* of historical suppliers for **semantic re-ranking**  
+  - 🤝 *Negotiation module* (LLM simulates buyer–supplier dialogue)  
+  - 🛠 *FastAPI backend + React dashboard* for interactive sourcing
+
+**Tech:** Python · Selenium · BeautifulSoup · LangChain · GPT-4o mini · Pandas · Excel Export  
+**Focus:** AI automation · data pipeline design · information retrieval · business tooling
+
+#### 🗄️ [Distributed Object Storage System (Raft + RocksDB)](https://github.com/QiaohuiGao/Distributed-Object-Storage-System)
+> **Highly available distributed storage engine** supporting 9 000 concurrent 512 KB reads/writes per second.
+
+- Implemented the **Raft consensus protocol** (leader election, log replication, dynamic cluster membership) for strong consistency.  
+- Built **server-side caching with LRU eviction**, sustaining a **70 % cache hit rate**.  
+- Customized **RocksDB** and **HashKV** for different workloads; optimized RocksDB for NVMe flash, improving write throughput **+35 %**.  
+- Added **Prevote** to reduce leader switch frequency during network jitter, achieving **99 % system availability**.  
+- Optimized **ReadIndex / FollowerRead** paths for relaxed-consistency reads, boosting read performance **+50 %**.  
+
+**Tech:** C++ · RocksDB · HashKV · Raft · NVMe storage · gRPC · Docker  
+**Focus:** distributed systems · consensus protocols · storage engine tuning · performance optimization
 
 #### 🧍‍♀️ [AI-Based Physical Performance Evaluation Tool](https://github.com/QiaohuiGao/ExploreWorld)
 > Flask + React system that estimates human fitness metrics from pose video input and provides **LLM-based personalized training suggestions**.
