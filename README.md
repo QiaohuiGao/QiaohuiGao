@@ -1,43 +1,86 @@
-# Hi there 👋, I'm Bonnie (Qiaohui Gao)!
-<h3 align="center">An enthusiastic doer with a passion for proposing innovative solutions to diverse challenges and bringing them to life through programming expertise and thoughtful product design.</h3>
+# 👋 Hi there, I'm Bonnie (Qiaohui Gao)
+### AI Engineer | Full-Stack Developer | Product-Minded Technologist
 
-🎓 **Master's Student in Information Systems at Northeastern University**  
-💻 **AI Developer | Full-Stack Software Developer | Product Manager**  
-🌟 **Passionate about building impactful software solutions**  
-- 💬 Ask me about **product design and product launch**
-- 📫 How to reach me **gao.qia@northeastern.edu https://www.linkedin.com/in/qiaohui-gao/**
----
-
-### 🛠 Tech Stack
-- **Languages**: Java, Python, JavaScript, SQL
-- **Frameworks & Libraries**: Flask, Spring Boot, React, Node.js
-- **Tools**: Azure, MongoDB, MySQL, Docker, Git
-- **Concepts**: Object-Oriented Programming, Full-stack Development, Algorithms
----
-### 📌 Featured Projects
-- **[Supplier Management System](https://github.com/username/supplier-management)**  
-  *A tool to help suppliers manage products, clients, and orders.*
-  - **Tech**: Java, Spring Boot, MySQL  
-  - **Features**: Role-specific dashboards, analytics, and inventory management  
-
-- **[AI Tool for Physical Performance Evaluation](https://github.com/QiaohuiGao/ExploreWorld))**  
-  *Helps users assess physical abilities before undertaking challenges.*
-  - **Tech**: Flask, React, MongoDB, PyTorch  
-  - **Features**: Real-time metrics, LLaMA-based recommendations  
-
-- **[Schizophrenia Diagnosis](https://github.com/username/schizophrenia-diagnosis)**  
-  *Transformers for fMRI data analysis.*
-  - **Tech**: Python, PyTorch  
-  - **Features**: Preprocessing pipeline, custom transformer model  
----
-
-### 🔭 What I'm Working On
-- Building a **personal portfolio** using React.  
-- Exploring **Vue.js** and advancing in **frontend frameworks**.  
-- Improving BFS/DFS skills with LeetCode challenges.  
+🎓 **M.S. in Information Systems @ Northeastern University (Boston, MA)**  
+💡 **Driven by curiosity to design intelligent systems that connect human insight with scalable automation.**  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🧭 About Me
+I'm an AI Engineer passionate about turning research-level ideas into production-grade systems.  
+My work bridges **machine learning, software engineering, and product strategy** — from designing hybrid RAG frameworks to deploying multimodal agents and scalable backend services.
 
+- 💬 Ask me about **LLM system design, RAG pipelines, or intelligent product frameworks**  
+- 🧠 Currently exploring **LangGraph, vector databases, and multi-agent orchestration**  
+- 📫 Reach me at: **gao.qia@northeastern.edu** | [LinkedIn](https://www.linkedin.com/in/qiaohui-gao/)
+
+---
+
+### ⚙️ Tech Focus Areas
+| Domain | Tools & Frameworks |
+|--------|--------------------|
+| **AI & ML Engineering** | PyTorch, LangChain, LangGraph, FAISS, OpenAI / Claude APIs, HuggingFace, TensorRT |
+| **Full-Stack Development** | Flask, Spring Boot, React / Vite, Node.js, Vue.js, REST / GraphQL APIs |
+| **Cloud & DevOps** | AWS (Lambda, ECS, S3, RDS), Docker, Kubernetes, Prometheus, Grafana, Terraform |
+| **Databases & Storage** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Pinecone |
+| **Languages** | Python, Java, JavaScript, SQL |
+
+---
+
+### 🧠 Highlighted AI Projects
+
+#### 🏥 [AI Triage & Patient Guide Agent (Harvard Medical School)](https://github.com/QiaohuiGao/ai-triage-agent)
+> **LLM-powered clinical triage assistant** that interprets symptom descriptions, reasons through medical logic, and routes patients to the right care.
+
+- Hybrid **RAG + rule-based** triage framework grounded by SNOMED-like ontology  
+- **LLM reasoning (Claude / GPT-4o mini)** with confidence-weighted routing and safe response generation  
+- <3 s median latency; ≥ 85 % routing accuracy validated on synthetic patient cases  
+
+#### 🧩 [SmartCare Multimodal Troubleshooting Agent](https://github.com/QiaohuiGao/smartcare-agent)
+> **Industrial AI assistant** that automates device fault diagnosis and operator training using manuals, SOPs, and multimodal inputs.
+
+- **Hybrid RAG + deterministic state-machine** pipeline bounded by **YAML fault graphs**  
+- **Qwen2-72B + Mixtral-8×7B ensemble** for bilingual reasoning with **knowledge-graph retrieval**  
+- Multimodal fusion (OCR + ASR + text) → vectorized embeddings (FAISS + bge-m3) for contextual search  
+- Flask + LangGraph agent orchestration with **ReAct-style tool calls** and Redis caching  
+- CUDA + Docker Swarm deployment achieving ~1.8 s latency and 99.9 % uptime  
+
+#### 📊 [Supplier Management System](https://github.com/QiaohuiGao/supplier-management)
+> Full-stack B2B platform for product, order, and inventory management.  
+**Java / Spring Boot / MySQL** backend with React dashboards and analytics.
+
+#### 🧍‍♀️ [AI-Based Physical Performance Evaluation Tool](https://github.com/QiaohuiGao/ExploreWorld)
+> Flask + React system that estimates human fitness metrics from pose video input and provides **LLM-based personalized training suggestions**.
+
+---
+
+### 🌱 What I’m Learning
+- Reinforcement learning for reasoning agents (ReAct + Graph-of-Thought)  
+- Efficient RAG optimization (semantic chunking, hybrid retrieval, caching)  
+- Frontend-LLM integration for **interactive AI products**  
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🧩 Quick Facts
+- 🚀 Comfortable moving from **model architecture** → **API design** → **frontend integration**.  
+- 🧭 Experienced with both **research prototypes** and **real-world deployments**.  
+- 🎯 Open to roles in **AI Engineering**, **AI Product Management**, and **Full-Stack Development**.
+
+---
+
+⭐ **Let’s build intelligent systems that make real impact.**  
