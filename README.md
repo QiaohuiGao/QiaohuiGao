@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Bonnie (Qiaohui Gao)
-### AI Engineer | Full-Stack Developer | Product-Minded Technologist
+### Applied Machine Learning Engineer | AI Engineer | Full-Stack Developer | Product-Minded Technologist
 
 🎓 **M.S. in Information Systems @ Northeastern University (Boston, MA)**  
 💡 **Driven by curiosity to design intelligent systems that connect human insight with scalable automation.**  
@@ -7,8 +7,8 @@
 ---
 
 ### 🧭 About Me
-I'm an AI Engineer passionate about turning research-level ideas into production-grade systems.  
-My work bridges **machine learning, software engineering, and product strategy** — from designing hybrid RAG frameworks to deploying multimodal agents and scalable backend services.
+I'm an Applied Machine Learning Engineer & AI Engineer passionate about turning research-level ideas into production-grade systems.  
+My work bridges **machine learning, agent engineering, software engineering, and product strategy** — from designing hybrid RAG frameworks to deploying multimodal agents and scalable backend services.
 
 - 💬 Ask me about **LLM system design, RAG pipelines, or intelligent product frameworks**  
 - 🧠 Currently exploring **LangGraph, vector databases, and multi-agent orchestration**  
